@@ -1,4 +1,4 @@
----
+-...
 Título: LeetCode 982. Triples con Bitwise e igual a Zero -
 descripción: Titular
 Fecha: 2025-09-21
@@ -6,8 +6,7 @@ categorías: []
 autor: muses
 tags: []
 HideToc: verdadero
----
-
+-...
 ## 1. Solución general – LeetCode 982
 **Problema** – Dado un array entero `nums` (`1 ≤ nums.length ≤ 1000`, `0 ≤ nums[i] ANTE 2^16`), cuentan todos **ordenados** triples de índices
 `(i, j, k)` such that `nums[i] & nums[j] & nums[k] == 0`.
